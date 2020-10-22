@@ -1,0 +1,122 @@
+{
+    "participante1": {
+        "id": 1,
+        "nombre": "lola",
+        "apellido": "tita",
+        "edad": 12,
+        "sexo": "F",
+        "ubicaciondisp1": 3,
+        "ubicaciondisp2": 6,
+        "ubicaciondisp3": 2.6,
+        "disparomascercano": 2.3,
+        "promediodedisparos": 3.1
+    },
+    "participante2": {
+        "id": 2,
+        "nombre": "ramses",
+        "apellido": "nunez",
+        "edad": 23,
+        "sexo": "M",
+        "ubicaciondisp1": 2.3,
+        "ubicaciondisp2": 4.5,
+        "ubicaciondisp3": 2.6,
+        "disparomascercano": 2.3,
+        "promediodedisparos": 3.1
+    },
+    "participante3": {
+        "id": 3,
+        "nombre": "arg",
+        "apellido": "azuca",
+        "edad": 34,
+        "sexo": "M",
+        "ubicaciondisp1": 3.4,
+        "ubicaciondisp2": 5.3,
+        "ubicaciondisp3": 7.8,
+        "disparomascercano": 3.4,
+        "promediodedisparos": 5.5
+    },
+    "participante4": {
+        "id": 4,
+        "nombre": "ramses",
+        "apellido": "nunez",
+        "edad": 34,
+        "sexo": "M",
+        "ubicaciondisp1": 3.4,
+        "ubicaciondisp2": 5.2,
+        "ubicaciondisp3": 7.4,
+        "disparomascercano": 3.4,
+        "promediodedisparos": 5.3
+    },
+    "participante5": {
+        "id": 5,
+        "nombre": "arnold",
+        "apellido": "adolf",
+        "edad": 34,
+        "sexo": "M",
+        "ubicaciondisp1": 3.4,
+        "ubicaciondisp2": 5.6,
+        "ubicaciondisp3": 2.3,
+        "disparomascercano": 2.3,
+        "promediodedisparos": 3.8
+    },
+    "participante6": {
+        "id": 6,
+        "nombre": "reinaldo",
+        "apellido": "rosca",
+        "edad": 36,
+        "sexo": "M",
+        "ubicaciondisp1": 3.4,
+        "ubicaciondisp2": 2.5,
+        "ubicaciondisp3": 2.7,
+        "disparomascercano": 2.5,
+        "promediodedisparos": 2.9
+    },
+    "participante7": {
+        "id": 7,
+        "nombre": "lola",
+        "apellido": "tita",
+        "edad": 23,
+        "sexo": "F",
+        "ubicaciondisp1": 4.5,
+        "ubicaciondisp2": 3.6,
+        "ubicaciondisp3": 7.5,
+        "disparomascercano": 3.6,
+        "promediodedisparos": 5.2
+    },
+    "participante8": {
+        "id": 8,
+        "nombre": "hay",
+        "apellido": "1",
+        "edad": 34,
+        "sexo": "M",
+        "ubicaciondisp1": 3.5,
+        "ubicaciondisp2": 2.4,
+        "ubicaciondisp3": 7.6,
+        "disparomascercano": 2.4,
+        "promediodedisparos": 4.5
+    },
+    "participante9": {
+        "id": 9,
+        "nombre": "lola",
+        "apellido": "tita",
+        "edad": 23,
+        "sexo": "F",
+        "ubicaciondisp1": 3.4,
+        "ubicaciondisp2": 5.6,
+        "ubicaciondisp3": 7.8,
+        "disparomascercano": 3.4,
+        "promediodedisparos": 5.6
+    },
+    "participante10": {
+        "id": 10,
+        "nombre": "lola",
+        "apellido": "tia",
+        "edad": 23,
+        "sexo": "F",
+        "ubicaciondisp1": 3.4,
+        "ubicaciondisp2": 5.6,
+        "ubicaciondisp3": 7.8,
+        "disparomascercano": 3.4,
+        "promediodedisparos": 5.6
+    }
+}
